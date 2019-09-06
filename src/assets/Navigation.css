@@ -1,0 +1,33 @@
+/* ====================================================
+
+Default color
+
+Nav bcg color: #1d809f
+
+
+=======================================================
+*/
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    background-color: #1d809f;
+    align-items: center;
+    padding: 0 40px;
+   
+}
+.logo-wrapper h2{
+    color: #fff;
+}
+.navbar-item ul{
+    list-style: none;
+}
+.navbar-item ul li{
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.navbar-item ul li a{
+    text-decoration: none;
+    color: #fff;
+}
